@@ -1,6 +1,12 @@
 # Github Explorer
 
+![proffy image](./images/github-explorer-light.jpg)
+
+![proffy image](./images/github-explorer-dark.jpg)
+
 Search for Github repositories and list that repositories issues.
+
+Keep track of the repositories searched.
 
 ---
 
